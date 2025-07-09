@@ -1,0 +1,29 @@
+.project {
+  background-color: #000;
+  padding: 50px 0; /* जरूरी padding */
+}
+
+.project h2 {
+  color: #fff;
+  padding: 1rem;
+}
+
+.project .heading span {
+  color: rgb(255, 230, 0);
+}
+
+.text {
+  margin: 0 auto;
+  padding: 30px 0;
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+}
+
+.para {
+  color: #fff;
+  width: 80%;
+  text-align: center;
+  margin: auto;
+  font-size: 15px;
+}
